@@ -7,3 +7,7 @@ After each answer, the app provides immediate feedback to let the user know if t
 At the end of the quiz, the user is taken to a results screen where their total score is displayed along with a short feedback message based on their performance. The app also includes a review feature, which allows users to go through all the questions again, see the correct answers, and compare them with their own responses to improve their understanding.
 <img width="637" height="427" alt="WhatsApp Image 2026-05-04 at 18 32 12" src="https://github.com/user-attachments/assets/2fe90e9d-2999-4b68-aabd-2d8a0c67a04f" />
 The application is structured using multiple screens, including a welcome screen, quiz screen, score screen, and review screen, all connected using intents to allow smooth navigation. In developing this app, important programming concepts such as arrays, loops, conditional statements, and variables were used to manage the data and control the flow of the program. Overall, the Truth or Myth App is designed to be user-friendly, educational, and interactive, while also demonstrating basic mobile app development skills.
+
+
+VIDEO LINK:
+https://youtu.be/PqWf0vzI6ho?si=-KZ0wqowxSKGcnZL
