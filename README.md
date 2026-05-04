@@ -1,2 +1,9 @@
-# TruthOrMyth6
-
+The Truth or Myth App is a simple and interactive mobile quiz application developed using Kotlin in Android Studio. The main purpose of the app is to help users learn the difference between real life hacks and common myths in a fun and engaging way. When the user opens the app, they are welcomed with a start screen that allows them to begin the quiz.
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-04 at 18 13 24 (1)" src="https://github.com/user-attachments/assets/daf2f849-c007-461a-8fe0-d6028c51835e" />
+Once the quiz starts, the app displays a series of statements one at a time, and the user must decide whether each statement is a life hack or a myth by selecting the appropriate button. 
+<img width="741" height="474" alt="WhatsApp Image 2026-05-04 at 18 17 33 (1)" src="https://github.com/user-attachments/assets/16398296-dd3f-43f8-a0bd-9bc4d737608f" />
+After each answer, the app provides immediate feedback to let the user know if they are correct or incorrect, while also keeping track of their score. 
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-04 at 18 13 25" src="https://github.com/user-attachments/assets/f9db4668-f9f1-451f-8795-ea9310636579" />
+At the end of the quiz, the user is taken to a results screen where their total score is displayed along with a short feedback message based on their performance. The app also includes a review feature, which allows users to go through all the questions again, see the correct answers, and compare them with their own responses to improve their understanding.
+<img width="637" height="427" alt="WhatsApp Image 2026-05-04 at 18 32 12" src="https://github.com/user-attachments/assets/2fe90e9d-2999-4b68-aabd-2d8a0c67a04f" />
+The application is structured using multiple screens, including a welcome screen, quiz screen, score screen, and review screen, all connected using intents to allow smooth navigation. In developing this app, important programming concepts such as arrays, loops, conditional statements, and variables were used to manage the data and control the flow of the program. Overall, the Truth or Myth App is designed to be user-friendly, educational, and interactive, while also demonstrating basic mobile app development skills.
